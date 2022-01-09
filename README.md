@@ -1,4 +1,4 @@
-## Oi, eu sou Pedro Henrique, sou desenvolverdor e estudante da linguagem Java, busco muitos assuntos relacionados a seu eco sistema!
+## Oi, eu sou Pedro Henrique
 <div align="center">
   <a href="https://github.com/PedroHeenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro Henrique &show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
