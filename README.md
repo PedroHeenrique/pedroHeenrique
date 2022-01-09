@@ -11,4 +11,10 @@
   <img align="center" alt="Rafa-Js" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">  
   <img align="center" alt="Rafa-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
+  
+  ## 
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/pedro-henrique-b4515b88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> |
 
