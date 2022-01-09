@@ -1,5 +1,5 @@
 ## Oi, eu sou Pedro Henrique
-- Hoje trabalho com desenvolvimento backend com a linguagem Java.
+- 👨🏽‍💻 Hoje trabalho com desenvolvimento backend com a linguagem Java ☕.
 - Estudando:  Design Patterns, Spring Framework, Postgres.
 <div align="center">
   <a href="https://github.com/PedroHeenrique">
